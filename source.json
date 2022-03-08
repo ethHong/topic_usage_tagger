@@ -1,0 +1,15 @@
+{
+  "SOURCE": [
+    "chats",
+    "emails",
+    "article",
+    "academic paper",
+    "message",
+    "conversation",
+    "subtitle",
+    "scripts",
+    "lyrics",
+    "report",
+    "submission"
+  ]
+}
