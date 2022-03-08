@@ -1,4 +1,4 @@
-# Topic IUsage Tagger
+# Topic / Usage Tagger
 
 ## Demo Link: https://huggingface.co/spaces/Sukhyun/Topic_and_Usage_tagger
 
